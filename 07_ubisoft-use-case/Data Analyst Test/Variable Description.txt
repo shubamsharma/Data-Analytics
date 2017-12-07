@@ -1,0 +1,6 @@
+utc_timestamp - time stamp
+User_ID - unique identification id of player.
+Revenue - Revenue in USD Cents.
+Pack_ID - name of the pack purchased by user.
+player level -  Game level of player where player made a purchase.
+CountryCode - country code
