@@ -2,8 +2,12 @@
 Contains projects related to NLP, Machine Learning
 
 Imp Points
-Cosine angle in Text analytics - "Tf-Idf and Cosine similarity _ Seeking Wisdom"
+1. Cosine angle in Text analytics - "Tf-Idf and Cosine similarity _ Seeking Wisdom"
 
-http://www.purplemath.com/modules/minors.htm
+2. http://www.purplemath.com/modules/minors.htm
+
+3. Fourier series
+4. Spectral Density
+
 
 
