@@ -2,12 +2,12 @@
 Contains projects related to NLP, Machine Learning
 
 Imp Points
-1. Cosine angle in Text analytics - "Tf-Idf and Cosine similarity _ Seeking Wisdom"
-
+1. Cosine angle in Text analytics - "Tf-Idf and Cosine similarity _ Seeking Wisdom"8
 2. http://www.purplemath.com/modules/minors.htm
-
 3. Fourier series
 4. Spectral Density
-
-
+5. Echelon Form
+6. Adjugate matrix
+7. https://en.wikipedia.org/wiki/Adjugate_matrix
+8. Rank of Matrix
 
