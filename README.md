@@ -10,4 +10,5 @@ Imp Points
 6. Adjugate matrix
 7. https://en.wikipedia.org/wiki/Adjugate_matrix
 8. Rank of Matrix
-
+9. https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/
+10. Box jenkins
