@@ -12,3 +12,5 @@ Imp Points
 8. Rank of Matrix
 9. https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/
 10. Box jenkins
+11. Data Table or merge limitation 
+- Columns order is not retained.
