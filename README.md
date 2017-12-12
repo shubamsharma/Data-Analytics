@@ -14,3 +14,4 @@ Imp Points
 10. Box jenkins
 11. Data Table or merge limitation 
 - Columns order is not retained.
+12. Result <- Departments[Employees][, leftCols, with=FALSE]
