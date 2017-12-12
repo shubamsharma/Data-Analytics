@@ -15,3 +15,4 @@ Imp Points
 11. Data Table or merge limitation 
 - Columns order is not retained.
 12. Result <- Departments[Employees][, leftCols, with=FALSE]
+13. http://www.dummies.com/education/math/business-statistics/find-the-treatment-sum-of-squares-and-total-sum-of-squares-when-constructing-the-test-statistic-for-anova/
