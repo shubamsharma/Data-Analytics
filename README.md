@@ -17,4 +17,6 @@ Imp Points
 12. Result <- Departments[Employees][, leftCols, with=FALSE]
 13. SSE - http://www.dummies.com/education/math/business-statistics/find-the-error-sum-of-squares-when-constructing-the-test-statistic-for-anova/
   SSTR - http://www.dummies.com/education/math/business-statistics/find-the-treatment-sum-of-squares-and-total-sum-of-squares-when-constructing-the-test-statistic-for-anova/
-14 - NLP Book - https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
+14. NLP Book - https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
+15. QQPlot How far your data is from normality
+16. Gradient Search/Update law
