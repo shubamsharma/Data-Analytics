@@ -23,3 +23,4 @@ Imp Points
 17. Elastic Search
 18. WordNet - Database for lexical text
 19. Linear Algebra is must ****** 
+20. Deep Learning book - https://raw.githubusercontent.com/JDwangmo/deepLearningBook/master/book/deeplearning-%E5%B8%A6%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE.pdf
