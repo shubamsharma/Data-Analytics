@@ -20,3 +20,6 @@ Imp Points
 14. NLP Book - https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
 15. QQPlot How far your data is from normality
 16. Retraining Model : Gradient Search/Update law
+17. Elastic Search
+18. WordNet - Database for lexical text
+19. 
