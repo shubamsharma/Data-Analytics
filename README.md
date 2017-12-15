@@ -22,4 +22,4 @@ Imp Points
 16. Retraining Model : Gradient Search/Update law
 17. Elastic Search
 18. WordNet - Database for lexical text
-19. 
+19. Linear Algebra is must ****** 
